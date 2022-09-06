@@ -9,15 +9,15 @@
 
 ## Education and courses 
  
- 1. Petroleum engineer
- 2. JS https://learn.javascript.ru/ in progress
- 3. JS, CSS, HTML video courses on Youtube
+1. Petroleum engineer
+2. JS https://learn.javascript.ru/ in progress
+3. JS, CSS, HTML video courses on Youtube
  
- ## About myself:
+## About myself:
  
- I want to become a programmer. Keep learning.
+I want to become a programmer. Keep learning.
  
- ## Code example:
+## Code example:
  
  Make a program that filters a list of strings and returns a list with only your friends name in it.
 If a name has exactly 4 letters in it, you can be sure that it has to be a friend of yours! Otherwise, you can be sure he's not...
@@ -27,7 +27,7 @@ function friend(friends){
   return friends.filter( a => a.length === 4)
 };
 ```
- ## Languages:
+## Languages:
  
  * Russian - Native
  * English - Beginner
